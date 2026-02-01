@@ -1,4 +1,0 @@
-Course,Name,Number,of,Hours
-string,int
-0
-Java,Core,Programming,40,40,NoH,40

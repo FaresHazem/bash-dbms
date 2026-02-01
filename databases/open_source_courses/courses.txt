@@ -1,0 +1,38 @@
+Ser,Course_Code,Course_Name,Lec,Lab
+int,string,string,int,int
+0
+1,ESS/AGL/200,Agile Software Development Methodologies,12,12
+2,ESS/SWE/100,Introduction to Software Engineering & UML,24,0
+3,ESS/XMLF/100,XML and JSON Essentials with Java,6,6
+4,OST/AJS/400,Angular,15,15
+5,OST/APTWS/200,Apache Web Server,6,6
+6,OST/ASB/200,Application Security Basics,6,6
+7,OST/CCDF/100,Cloud Computing and Docker Fundamentals,18,6
+8,OST/DPS/100,Design Patterns,12,0
+9,OST/FS/100,Freelancing,6,6
+10,OST/IOT/200,IOT Application Development,60,0
+11,OST/Mongo/200,MongoDB,9,9
+12,OST/MYSQL/200,MySQL Database,9,9
+13,OST/NJS/300,Node.js,15,15
+14,OST/OSERPs/500,Open-Source ERP Systems,12,12
+15,OST/PHPCMSs/400,PHP CMSs,6,6
+16,OST/PHP/300,PHP Programming,15,15
+17,OST/PHPWFS/300,PHP Web Frameworks,15,15
+18,OST/PTHN/300,Python Programming,18,18
+19,OST/RCT/400,ReactJS,12,12
+20,OST/RHSAI/200,Red Hat System Administration I,21,21
+21,OST/RUBY/300,Ruby Programming,12,12
+22,OST/UAT/400,Unit & Automated Testing,6,6
+23,OST/VCS/100,Version Control Systems,6,6
+24,OST/VJS/200,VueJS,9,9
+25,OST/WS/400,Web Services,6,6
+26,OST/NST/400,NestJS,6,6
+27,OST/NXT/400,Next.js,6,6
+28,OST/GQL/500,GraphQL,3,3
+29,BUS/BPRW/100,Best Practices for Remote Working (Workshop),0,3
+30,BUS/JSS/100,Job Seeking Skills,3,15
+31,BUS/PD/100,Professional Demeanor (Workshop),3,0
+32,BUS/PTW/100,Progressive Teamwork (Workshop),3,0
+33,,Generative AI,6,0
+34,,Gen-AI,6,6
+35,,Advanced Gen-AI,9,9
