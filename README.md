@@ -99,6 +99,8 @@ int,string,string,int,int
 
 ---
 
-## 👤 Author
-**Fares Hazem**
+## 👥 Authors
+- **Fares Hazem**
+- **Ahmed Ashraf**
+
 *Open Source Development Track | ITI*
